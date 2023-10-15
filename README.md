@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my useless github profile
+
+Really, there's nothing useful here right now.
+Maybe one day...
 
 <!--
 **MateusAuri/MateusAuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
