@@ -11,6 +11,6 @@ For now I mostly use github to report and discuss bugs and whatnot, and the occa
 
 If I somehow helped you and you wanna thank me, consider sending a dollar or so my way, because I'm broke af right now.
 
-[PayPal](https://www.paypal.com/donate/?business=NA4SGGWAQHFEJ) [Ko-fi](https://ko-fi.com/mateusauri) [BuyMeACoffee](https://www.buymeacoffee.com/mateusauri)
+[PayPal](https://www.paypal.com/donate/?business=NA4SGGWAQHFEJ) | [Ko-fi](https://ko-fi.com/mateusauri) | [BuyMeACoffee](https://www.buymeacoffee.com/mateusauri)
 
 <!-- eggs -->
