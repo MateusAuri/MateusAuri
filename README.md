@@ -3,7 +3,7 @@
 
 # Welcome to my useless github profile
 
-Really, there's nothing useful here right now. I have no time and energy to actually develop anything significant.
+Really, there's nothing to write home about in here right now. I have no time and energy to actually develop anything significant.
 
 Maybe one day...
 
